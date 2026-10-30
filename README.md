@@ -7,9 +7,9 @@
 
 | Campo | Dato |
 |-------|------|
-| **Nombre y Apellido** | |
-| **Legajo** | |
-| **Correo electrónico** | |
+| **Nombre y Apellido** | Sergio Adrián Maldonado |
+| **Legajo** | 21352 |
+| **Correo electrónico** | maldonado.systems@gmail.com |
 
 ---
 
